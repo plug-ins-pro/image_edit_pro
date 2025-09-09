@@ -47,8 +47,8 @@
             "plugin": {
                 "internalName": "UNITEDCODES_IMAGE_EDIT_PRO",
                 "type": "region",
-                "demo": "https://www.united-codes.com/ords/pluginspro_web/r/apex_image_edit",
-                "previewImage": "https://www.united-codes.com/ords/pluginspro_web/r/image_edit_pro/files/static/v114/demo.gif"
+                "demo": "https://www.united-codes.com/ords/pip/r/image_edit_pro",
+                "previewImage": "https://www.united-codes.com/ords/r/pip/image_edit_pro/r/pip/163/files/static/v43/image-edit.gif"
             }
         }
     }
