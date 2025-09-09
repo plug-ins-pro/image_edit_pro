@@ -1,0 +1,55 @@
+{
+    "name": "Image Edit Pro",
+    "version": "25.1",
+    "description": "United Codes Image Edit Pro Pro: Image Edit Pro Pro is a powerful and intuitive image editing plug-in designed for seamless integration within Oracle APEX applications.",
+    "keywords": [
+        "APEX",
+        "Image Editor",
+        "blob",
+        "Edit",
+        "Image"
+    ],
+    "homepage": "https://www.united-codes.com/products/plug-ins-pro/",
+    "bugs": {
+        "url": "https://github.com/plug-ins-pro/image_edit_pro/issues",
+        "email": "support@plug-ins-pro.com"
+    },
+    "license": "Commercial",
+    "commercial": "Yes",
+    "author": {
+        "name": "United Codes",
+        "email": "info@plug-ins-pro.com",
+        "url": "https://www.united-codes.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plug-ins-pro/image_edit_pro"
+    },
+    "oracle": {
+        "versions": [
+            "19.x",
+            "21.x"
+        ],
+        "apex": {
+            "versions": [
+                "19.2.0",
+                "20.1.0",
+                "20.2.0",
+                "21.1.0",
+                "21.2.0",
+                "22.1.0",
+                "22.2.0",
+                "23.1.0",
+                "23.2.0",
+                "24.1.0",
+                "24.2.0"
+            ],
+            "plugin": {
+                "internalName": "UNITEDCODES_IMAGE_EDIT_PRO",
+                "type": "region",
+                "demo": "https://www.united-codes.com/ords/pluginspro_web/r/apex_image_edit",
+                "previewImage": "https://www.united-codes.com/ords/pluginspro_web/r/image_edit_pro/files/static/v114/demo.gif"
+            }
+        }
+    }
+}
